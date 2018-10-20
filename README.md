@@ -1,4 +1,5 @@
 What do you need?
+
 -Raspberry Pi 
 -Jumper cable(for the WS2812b)
 -Sudo permission 
