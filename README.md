@@ -1,8 +1,8 @@
 What do you need?
-
--Raspberry Pi 
--Jumper cable(for the WS2812b)
--Sudo permission 
+1. Raspberry Pi
+2. WS2812b strip
+3. Jumper cable(for the WS2812b)
+4. Sudo permission
 
 How to install the projekt?
 1.  sudo apt-get update -y
