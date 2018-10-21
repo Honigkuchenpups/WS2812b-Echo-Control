@@ -16,6 +16,6 @@ How to install the projekt?
 9.  cd python
 10. sudo python setup.py install
 11. cd ../ && cd ../
-12. sudo chmod 777 brightness
 
 Now paste the unzipped project in this folder.
+that still needs the brightness permisions (sudo chmod 777 brightness)
